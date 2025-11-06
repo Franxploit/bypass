@@ -1,6 +1,6 @@
 const settings = {
   ownerName: 'ストレッサーDDOS', // Ganti dengan nama owner lu
-  botToken: '7488413334:AAHVeUWH3y_WBqIwLmi1iJ3VBhbxsBuBUcE', // Ganti dengan token bot Telegram lu
+  botToken: '7010481598:AAH3Wd__4Q0MGWel2lrExJ_n5STpkJ_Cpxs', // Ganti dengan token bot Telegram lu
   owner: '5393907859', //OWNER user id
 };
 
